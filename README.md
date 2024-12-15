@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merdannotfound&label=Profile%20views&color=0e75b6&style=flat" alt="merdannotfound" /> </p>
 
-- 🔭 I’m currently working on **GO**
+- 🔭 I’m currently working on **React, NodeJs**
 
-- 💬 Ask me about **NodeJs, Go, TailwindCss, Unity C#**
+- 💬 Ask me about **NodeJs, React, JavaScript **
 
 - 📫 How to reach me **shamerpubgjum@gmail.com**
 
